@@ -24,7 +24,7 @@ Classify blood cells in RGB images into eight disjoint classes using a convoluti
   - Implemented Transfer Learning (TL) and Fine Tuning (FT) with architectures such as ConvNeXt and EfficientNet.
   - Deployed an ensemble of the best-performing models for improved accuracy and robustness.
 - **Final Results:**
-  - **Codabench Score:** 0.76
+  - **Codabench Score:** 76%
   - **Top Accuracy (ConvNeXtSmall):** 96.20%
 
 Find detailed information in the [HW1 Report](HW1_report_NoPainNoTrain.pdf).
