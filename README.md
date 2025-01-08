@@ -28,12 +28,12 @@ Project for the _Artificial Neural Networks and Deep Learning_ course held at Po
 
 1. Clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/fede-mat/an2dl
+git clone https://github.com/fede-mat/anndl-hw1
 ```
 
 2. Navigate to the project directory using the following command:
 ```bash
-cd an2dl
+cd anndl-hw1
 ```
 
 ## Installing the Libraries
