@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 # Structure
 
-The folder [`source`](./source/) contains four notebooks, to train the models and generate their ensemble: namely, [`model1.ipynb`](./source/model1.ipynb), [`model2.ipynb`](./source/model2.ipynb), [`model3.ipynb`](./source/model3.ipynb), and [`ensemble.ipynb`](./source/ensemble.ipynb).
+The folder [`source`](./source/) contains five notebooks, to investigate the dataset, train the models and generate their ensemble: namely, [`investigate.ipynb`](./source/investigate.ipynb), [`model1.ipynb`](./source/model1.ipynb), [`model2.ipynb`](./source/model2.ipynb), [`model3.ipynb`](./source/model3.ipynb), and [`ensemble.ipynb`](./source/ensemble.ipynb).
 
 The folder [`archive`](./archive/) is an history of our trials and its elements are detailed in the report.
 
